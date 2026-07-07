@@ -1,7 +1,7 @@
 # 🎬 Plataforma de Streaming: Análisis y Modelado de Usuarios
 
 ## Información general
-- **Comisión:** [Tu Comisión]
+- **Carrera**: Tecnicatura en Ciencia de Datos e Inteligencia Artificial - Turno Tarde - Sede Nodo
 - **Integrantes:**
   - Integrante 1 : Jorge Leandro Isaac
   - Integrante 2 : Luis Lorenzo
