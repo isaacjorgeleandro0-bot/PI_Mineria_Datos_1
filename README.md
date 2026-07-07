@@ -6,7 +6,7 @@
   - Integrante 1 : Jorge Leandro Isaac
   - Integrante 2 : Luis Lorenzo
   
-- **Aplicación en Vivo:** [🔗 Acceder a la aplicación en Streamlit Cloud](https://isaacjorgeleandro0-bot-pi-mineria-datos-1-apphome-hofsum.streamlit.app/)
+- **Enlace a la app** [🔗 Acceder a la aplicación en Streamlit Cloud](https://isaacjorgeleandro0-bot-pi-mineria-datos-1-apphome-hofsum.streamlit.app/)
 
 ---
 
