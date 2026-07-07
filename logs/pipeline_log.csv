@@ -1,0 +1,9 @@
+timestamp,notebook,transformacion,shape_antes,shape_despues,estado,error
+2026-07-07 17:08:51,02_calidad_y_limpieza.ipynb,"Estandarización de variables categóricas (subscription_plan, country, favorite_genre)","(8160, 8)","(8160, 8)",EXITOSO,
+2026-07-07 17:09:58,02_calidad_y_limpieza.ipynb,Consolidación de duplicados por user_id y manejo de nulos reales,"(8160, 8)","(8000, 8)",EXITOSO,
+2026-07-07 17:11:57,02_calidad_y_limpieza.ipynb,Tratamiento de valores nulos,"(8160, 8)","(8000, 8)",EXITOSO,
+2026-07-07 17:12:50,02_calidad_y_limpieza.ipynb,Tratamiento de outliers,"(8160, 8)","(8000, 8)",EXITOSO,
+2026-07-07 17:13:30,02_calidad_y_limpieza.ipynb,Consolidación de duplicados por user_id,"(8160, 8)","(8000, 8)",EXITOSO,
+2026-07-07 17:14:01,02_calidad_y_limpieza.ipynb,Exportación de dataset procesado,"(8160, 8)","(8000, 8)",EXITOSO,
+
+
